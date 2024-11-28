@@ -8,7 +8,7 @@ int main()
   {
   	printf("num1 greater than num2");
   }
-  if(num2>num1)
+  else
   {
   	printf("num2 greater than num1");
   }
